@@ -152,6 +152,9 @@ li {
 .educationfont2 {
   font-size: 15px;
 }
+#intro {
+  margin-top: 10px;
+}
 
 #back-to-top {
   display: none;
